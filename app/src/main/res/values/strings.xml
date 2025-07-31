@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">News App</string>
+    <string name="news">Search News</string>
+    <string name="card_title">Card Title</string>
+    <string name="card_desc">Card description goes here</string>
+    <string name="info">More Info</string>
+    <string name="remove">Remove</string>
+
+
+
+</resources>
